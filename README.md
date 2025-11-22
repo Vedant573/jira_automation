@@ -1,4 +1,4 @@
-# GitHub to Jira Issue Sync (Webhook Based Integration)
+# Automated GitHub-to-Jira Issue Synchronization System
 
 This project automates the creation of Jira tickets from GitHub issues using GitHub webhooks and a Flask-based API. When a developer comments "/jira" on a GitHub issue, the system automatically creates a corresponding Jira ticket. This helps development teams track bugs, analyze tasks, and maintain a record of issues resolved over a period of time.
 
